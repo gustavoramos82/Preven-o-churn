@@ -30,3 +30,7 @@ O dataset vem com 18 atributos, sendo eles:
 Observa-se que as três primeira colunas não são necessária nem para a análise nem para modelagem, logo elas foram desconsideradas, logo só se trabalhará com as 15 restantes.
 
 ## Análise Exploratória
+
+Clique no tópico para ser redirecionado
+
+- [Análise Inicial](https://github.com/gustavoramos82/Preven-o-churn/blob/main/Texto/Analise%20inicial.md)
